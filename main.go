@@ -1,7 +1,7 @@
 package main
 
 /*
-#cgo CFLAGS: -std=c99 -I /go_rest/Iso8583
+#cgo CFLAGS: -std=c99 -I /go8583/Iso8583
 #include <stdio.h>
 #include "Iso8583/Types.h"
 #include "Iso8583/HexPair.h"
